@@ -1,0 +1,149 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Kalam', cursive;
+  font-size: 5.625rem;
+  color: #3d8080;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #3d8080;
+  font-weight: 1000;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: 1000;
+}
+
+p{
+  line-height: 2.5;
+  font-weight: 600;
+}
+
+.top-container{
+  background-color: #e3fdfd;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  
+}
+
+.bottom-container{
+  background-color:#66BFBF;
+  padding-top: 30px;
+  margin-top: 40px;
+  overflow: hidden;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 360px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 360px;
+  bottom: 300px;
+}
+
+.footer-link{
+  color: #0d7a7e;
+  font-weight: bold;
+}
+
+.mountain{
+  margin-top: 100px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 90px auto 90px auto;
+  text-align: left;
+}
+
+.hobbies-row{
+  width: 50%;
+  margin: 90px auto 90px auto;
+  text-align: left;
+}
+
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.gaming{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.pfp{
+  margin-top: 40px;
+}
+
+.btn {
+  background: #34d9b0;
+  background-image: -webkit-linear-gradient(top, #34d9b0, #2b6fb8);
+  background-image: -moz-linear-gradient(top, #34d9b0, #2b6fb8);
+  background-image: -ms-linear-gradient(top, #34d9b0, #2b6fb8);
+  background-image: -o-linear-gradient(top, #34d9b0, #2b6fb8);
+  background-image: linear-gradient(to bottom, #34d9b0, #2b6fb8);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cddfa;
+  background-image: -webkit-linear-gradient(top, #3cddfa, #34d9cb);
+  background-image: -moz-linear-gradient(top, #3cddfa, #34d9cb);
+  background-image: -ms-linear-gradient(top, #3cddfa, #34d9cb);
+  background-image: -o-linear-gradient(top, #3cddfa, #34d9cb);
+  background-image: linear-gradient(to bottom, #3cddfa, #34d9cb);
+  text-decoration: none;
+}
+
+a{
+  margin: auto 10px;
+  text-decoration: none;
+}
+
+.copyright{
+  color: white;
+}
+
+hr{
+  border: dotted #cdd3d3 5px;
+  border-bottom: none;
+  width: 3%;
+  margin: 90px auto 90px auto;
+}
+
+.profile{
+  
+}
+
+.bruh{
+  margin-bottom: 30px;
+}
